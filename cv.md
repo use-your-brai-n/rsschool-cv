@@ -4,11 +4,12 @@
 
 ### Contacts
 
-**[Github](https://github.com/use-your-brai-n)**
+- **Located:** Minsk 
+- **Telegram:** @tanyazagorskaya
 
-**Telegram:** @tanyazagorskaya
+- **[E-mail](taniazag89@gmail.com)**
 
-**E-mail:** taniazag89@gmail.com
+- **[Github](https://github.com/use-your-brai-n)**
 
 ***
 
@@ -21,6 +22,63 @@ Last year I made  a decision to switch my professional sphere drastically, and s
 I want to be proficient in technologies mentioned below and to expand the range of them. So I'm here at RS School and ready to get solid knowledge required to start a career path in Front-end development.
 
 ***
+
+### Skills
+
+**1.** HTML5
+**2.** CSS3
+**3.** Bootstrap 5
+4.** JavaScript Basics
+
+***
+
+### Code example
+
+**Task from Codewars:** Create a function that takes an integer as an argument and returns “Even” for even numbers and “Odd” for odd numbers.
+
+**Solution:** 
+
+```script
+
+function even_or_odd(number) {
+    if (number%2 === 0) {
+        return "Even";
+        else {
+            return "Odd";
+        }
+    }
+}
+
+console.log(even_or_odd(-3));
+```
+
+***
+
+### Working experience
+
+I haven’t had any real experience in programming yet, but here is my project which I completed while studying: *[Click here](https://light-cookie-tapir.glitch.me/)*
+*[*Code](https://glitch.com/edit/#!/light-cookie-tapir)*
+
+***
+
+### Educational background
+
+- **University:** Minsk State Linguistic University, Faculty of English language
+
+- **Courses:** 
+  - CanSheCode inc., Web-development
+  - RS School, Front-end development (*in progress*)
+
+***
+
+### Languages
+
+**Russian** - native speaker
+**English** - upper-intermediate
+
+
+
+
 
 
 
