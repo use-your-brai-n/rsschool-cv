@@ -23,10 +23,9 @@ I want to be proficient in technologies mentioned below and to expand the range 
 
 ### Skills
 
-**1.** HTML5 
-**2.** CSS3 
-**3.** Bootstrap 5 
-**4.** JavaScript Basics
+1. HTML/CSS
+2. Bootstrap
+3. JS (Basics)
 
 ***
 
