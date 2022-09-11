@@ -1,12 +1,13 @@
 
 # Tatsiana Zagorskaya
 
-***
 
 ### Contacts
 
 **[Github](https://github.com/use-your-brai-n)**
+
 **Telegram:** @tanyazagorskaya
+
 **E-mail:** taniazag89@gmail.com
 
 ***
