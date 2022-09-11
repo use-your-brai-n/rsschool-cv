@@ -4,11 +4,9 @@
 
 ### Contacts
 
-- **Located:** Minsk 
-- **Telegram:** @tanyazagorskaya
-
-- **[E-mail](taniazag89@gmail.com)**
-
+- **Located:** Minsk  
+- **Telegram:** @tanyazagorskaya 
+- **[E-mail](taniazag89@gmail.com)** 
 - **[Github](https://github.com/use-your-brai-n)**
 
 ***
@@ -25,10 +23,10 @@ I want to be proficient in technologies mentioned below and to expand the range 
 
 ### Skills
 
-**1.** HTML5
-**2.** CSS3
-**3.** Bootstrap 5
-4.** JavaScript Basics
+**1.** HTML5 
+**2.** CSS3 
+**3.** Bootstrap 5 
+**4.** JavaScript Basics
 
 ***
 
@@ -56,27 +54,26 @@ console.log(even_or_odd(-3));
 
 ### Working experience
 
-I haven’t had any real experience in programming yet, but here is my project which I completed while studying: *[Click here](https://light-cookie-tapir.glitch.me/)*
+I haven’t had any real experience in programming yet, but here is my project which I completed while studying: *[Click here](https://light-cookie-tapir.glitch.me/)* 
 *[*Code](https://glitch.com/edit/#!/light-cookie-tapir)*
 
 ***
 
 ### Educational background
-
+ 
 - **University:** Minsk State Linguistic University, Faculty of English language
-
-- **Courses:** 
+ 
+- **Courses:**
   - CanSheCode inc., Web-development
   - RS School, Front-end development (*in progress*)
-
+ 
 ***
-
+ 
 ### Languages
-
+ 
 **Russian** - native speaker
+
 **English** - upper-intermediate
-
-
 
 
 
