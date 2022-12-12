@@ -1,4 +1,4 @@
-let text = "Front-end разработчик";
+let text = "Front-end developer";
 let index = 0;
 let speed = 100;
 
