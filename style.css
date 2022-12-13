@@ -1,0 +1,279 @@
+body {
+    background-color: black;
+    background-attachment: fixed;
+    font-family: 'Raleway', sans-serif;
+}
+.header {
+    display: flex;
+    justify-content:center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+#par {
+    font-size: 30px;
+}
+
+#pictures {
+  border-radius: 5px;
+}
+
+#certificates {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.technology {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+  border: none;
+  background-color: #fff;
+  background-color: black;
+}
+
+
+.project {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #fff;
+    margin: 30px;
+    border-radius: 5px;
+    
+}
+
+.par {
+    color: grey;
+    font-size: 12px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    color: #fff;
+}
+
+.bi {
+    color: #fff;
+}
+
+.projectName {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+h2 {
+    color: #fff;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.mail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.message {
+    text-align: center;
+    color: #fff;
+}
+
+.contact-me {
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.cover{
+  border-radius:5px;
+}
+
+.education {
+    display: flex;
+    justify-content: space-around;
+}
+
+.test {
+    align-self: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.rsschool {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.reserved {
+    font-size: 25px;
+}
+
+.employment-history {
+    display: flex;
+    margin-top: 30px;
+}
+
+.experience {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.language {
+    display: flex;
+    justify-content:space-around;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+@media all and (max-width:1024px){
+  .cover {
+    width: 320px;
+    height: 200px;
+  }
+  
+   .lead {
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width:820px){
+   .cover {
+    width: 600px;
+    height: 400px;
+   }
+   
+   h2 {
+    font-size: 40px;
+   }
+
+   .message {
+    font-size: 20px;
+   }
+
+   .projectName{
+    font-size: 30px;
+   }
+
+   .par {
+    font-size: 20px;
+   }
+
+   .education {
+    display: flex;
+    flex-direction: column;
+   }
+
+}
+
+@media all and (max-width: 540px){
+   .cover {
+   width: 320px;
+   height: 180px;
+   } 
+
+   #pictures {
+    width: 350px;
+    height: 280px;
+   }
+
+   #certificates {
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .featurette-heading{
+    font-size: 25px;
+   }
+  
+  .navbar {
+    background-color: grey;
+  }
+  
+   h2 {
+    font-size: 28px;
+   }
+  
+  .projectName{
+    font-size: 22px;
+   }
+
+   .par {
+    font-size: 15px;
+   }
+  
+  .message {
+    font-size: 15px;
+   }
+
+   .experience {
+    display: flex;
+    flex-direction: column;
+   }
+
+   .employment-history {
+    justify-content: center;
+   }
+
+   .language {
+    display: flex;
+    flex-direction: column;
+   }
+
+}
+
+@media all and (max-width: 360px){
+    .cover {
+        width: 300px;
+        height: 200px;
+    }
+
+    .featurette-heading{
+        font-size: 30px;
+    }
+}
+
+@media all and (max-width: 280px){
+    .cover {
+        width: 250px;
+        height: 150px;
+    }
+
+    #pictures {
+        width: 260px;
+        height: 200px;
+    }
+}
