@@ -115,8 +115,7 @@ h2 {
 
 .education {
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .test {
@@ -147,13 +146,17 @@ li {
 }
 
 .experience {
-    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 .language {
     display: flex;
     justify-content:space-around;
     margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 @media all and (max-width:1024px){
