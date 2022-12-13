@@ -134,7 +134,11 @@ li {
 .rsschool {
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 50px;
+}
+
+.reserved {
+    font-size: 25px;
 }
 
 @media all and (max-width:1024px){
@@ -168,6 +172,11 @@ li {
 
    .par {
     font-size: 20px;
+   }
+
+   .education {
+    display: flex;
+    flex-direction: column;
    }
 }
 
