@@ -141,6 +141,20 @@ li {
     font-size: 25px;
 }
 
+.employment-history {
+    display: flex;
+    margin-top: 30px;
+}
+
+.experience {
+    justify-content: center;
+}
+
+.language {
+    display: flex;
+    justify-content:center;
+}
+
 @media all and (max-width:1024px){
   .cover {
     width: 320px;
