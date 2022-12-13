@@ -196,6 +196,7 @@ li {
     display: flex;
     flex-direction: column;
    }
+
 }
 
 @media all and (max-width: 540px){
@@ -236,6 +237,20 @@ li {
   
   .message {
     font-size: 15px;
+   }
+
+   .experience {
+    display: flex;
+    flex-direction: column;
+   }
+
+   .employment-history {
+    justify-content: center;
+   }
+
+   .language {
+    display: flex;
+    flex-direction: column;
    }
 
 }
