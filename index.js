@@ -14,7 +14,7 @@ type();
 
 const back = document.querySelector('#back');
 const next = document.querySelector('#next');
-const photos = ['../..', 'https://cdn.glitch.global/bd70a2d6-9a42-4bf0-9abb-7ff51cfe66d0/%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0%20%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F.png?v=1661789110503'];
+const photos = ['../rsschool-cv/assets/Tatsiana Zagorskaya.png', '../rsschool-cv/assets/crtificate.jpg'];
 
 let i = 0;
 
