@@ -63,7 +63,7 @@ body {
     margin: 0;
 }
 
-h2 {
+h4 {
     color: #fff;
 }
 
@@ -124,10 +124,12 @@ h2 {
 
 p {
     font-size: 20px;
+    color: #fff;
 }
 
 li {
     font-size: 20px;
+    color: #fff;
 }
 
 .rsschool {
@@ -251,6 +253,7 @@ li {
    .language {
     display: flex;
     flex-direction: column;
+    justify-content: center;
    }
 
 }
