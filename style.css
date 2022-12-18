@@ -161,6 +161,10 @@ li {
     margin-bottom: 80px;
 }
 
+.skills {
+    display: flex;
+    justify-content: center;
+
 @media all and (max-width:1024px){
   .cover {
     width: 320px;
