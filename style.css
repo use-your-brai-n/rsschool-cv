@@ -1,0 +1,70 @@
+html {
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+body {
+    font-size: 1.6rem;
+    font-family: 'Inika', serif;
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.heading__container {
+    margin-bottom: 50px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation_link {
+    list-style: none;
+    padding: 0 23px;
+}
+
+.nav_link {
+    text-decoration: none;
+}
+
+.projects__container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #fff;
+    margin: 30px;
+    border-radius: 5px;
+}
+
+.welcome_content {
+    max-width: 600px;
+}
+
+.description, h1 {
+    margin-left: 100px;
+}
+
+.avatar {
+    margin-left: 70px;
+}
+
+
+
+
