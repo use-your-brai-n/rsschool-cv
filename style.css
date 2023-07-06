@@ -21,6 +21,8 @@ body {
 
 .heading__container {
     margin-bottom: 50px;
+    justify-content: center;
+    margin-top: 50px;
 }
 
 .navigation {
@@ -28,13 +30,20 @@ body {
     justify-content: space-between;
 }
 
+
 .navigation_link {
     list-style: none;
     padding: 0 23px;
+    cursor: pointer;
 }
 
 .nav_link {
     text-decoration: none;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
 }
 
 .projects__container {
@@ -61,8 +70,24 @@ body {
     margin-left: 100px;
 }
 
+h1 {
+    text-align: center;
+}
+
+.description {
+    font-size: 1.9rem;
+    line-height: 2.2rem;
+    text-indent: 10px;
+}
+
+.welcome__container {
+    margin-bottom: 50px;
+}
+
 .avatar {
     margin-left: 70px;
+    display: flex;
+    align-self: center;
 }
 
 .certificate {
@@ -70,6 +95,11 @@ body {
     margin-right: 100px;
 }
 
+.footer__container {
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
 
 
 
