@@ -74,6 +74,23 @@ h1 {
     border-radius: 5px;
 }
 
+.project_name {
+    color: #010201;
+    font-family: 'Inika', serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.project_name:hover {
+    color: burlywood;
+    transition: all ease-in-out 0.5s;
+}
+
+.par {
+    font-family: 'Inika', serif;
+    color: #717171; 
+}
+
 .welcome_content {
     max-width: 600px;
 }
@@ -91,7 +108,7 @@ h1 {
     line-height: 2.2rem;
     text-indent: 10px;
     color: #010201;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inika', serif;
 }
 
 .welcome__container {
@@ -104,11 +121,6 @@ h1 {
     align-self: center;
 }
 
-.certificate {
-    max-width: 600px;
-    margin-right: 100px;
-}
-
 .footer__container {
     justify-content: center;
     margin-top: 50px;
@@ -118,6 +130,7 @@ h1 {
     max-width: 600px;
     padding-left: 70px;
     color: #010201;
+    font-family: 'Inika', serif;
 }
 
 .codewars {
@@ -131,12 +144,11 @@ h1 {
     font-size: 1.9rem;
     line-height: 2.2rem;
     padding-left: 90px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inika', serif;
     color: #010201;
 }
 
 pre {
-    background-color: #fff;
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.486);
 }
 
