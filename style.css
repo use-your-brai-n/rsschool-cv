@@ -70,7 +70,7 @@ h1 {
     padding: 10px;
     background-color: #fff;
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.486);
-    margin: 70px;
+    margin: 30px;
     border-radius: 5px;
 }
 
@@ -150,4 +150,8 @@ pre {
 
 .courses {
     padding-top: 60px;
+}
+
+.footer__link {
+    text-decoration: underline;
 }
