@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="./assets/cv-icon.ico" />
+    <link rel="icon" href="./assets/cv-icon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
@@ -13,53 +13,51 @@
 <body>
     <header class="header_main">
         <div class="container">
-            <nav><ul>
-                <li><a href=""></a>About me</li>
-                <li><a href=""></a>Education</li>
-                <li><a href=""></a>Projects</li>
-                <li><a href=""></a>Contacts</li>
-            </ul></nav>
+            <nav class="nav-bar">
+                <ul class="nav-list">
+                <li class="nav-item"><a class="nav-link" href="#summary">About me</a></li>
+                <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+                <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contacts_and_skills">Contacts</a></li>
+                </ul>
+            </nav>
         </div>
     </header>
     <main>
-        <section id="summary">
-            <div class="container">
-                <img src="./assets/me.jpg" alt="my_photo" width="100" height="100">
-                <h1>Tatsiana Zagorskaya</h1>
+        <section class="header">
+            <div class="container header_container">
+                <img class="avatar" src="./assets/me.jpg" alt="my_photo">
+                <div class="contacts">
+                    <h1 class="heading">Tatsiana Zagorskaya</h1>
+                    <h2 class="section-heading">Contacts</h2>
+                    <a class="social-link" href="https://www.linkedin.com/in/tatsiana-zagorskaya-226864231/" target="_blank">LinkedIn</a><br>
+                    <a class="social-link" href="#tanya(@use-your-brai-n)">Discord</a>
+                </div>
             </div>
         </section>
-        <section id="contacts_and_skills">
-            <div class="container">
-                <div class="contacts">
-                    <h2>Contacts</h2>
-                    <a href="">LinkedIn</a>
-                    <a href="">tanya(@use-your-brai-n)</a>
-                </div>
+        <section id="summary">
+            <div class="container summary_container">
+                <h2 class="section-heading">Profile summary</h2>
+                <p class="profile-text">I used to work in the field of telecommunication more than 10 years, holding various positions (call-center, marketing) and a variety of duties. At present moment I started working in a new sphere of professional activity for me - insurance company.</p>
+                <p class="profile-text">Some time ago I made a decision to switch my professional sphere drastically, and so started attending an online course in web-development. While studying there we were mastering to build responsive web-sites using HTML/CSS, Bootstrap, also learning basic things from JS and creating some simple apps. But the lack of time didn't allow me to finish the course.</p>
+                <p class="profile-text">And now I decided to start from the scratch again and continue learning.</p>
+            </div>
+        </section>
+        <section id="education">
+            <div class="container education_container">
+                <h2 class="section-heading">Education</h2>
+                <ul>
+                    <li>Minsk State Linguistic University (Faculty of English language)</li>
+                    <li>RS School (in progress)</li>
+                </ul>
                 <div class="skills">
-                    <h2>Skills</h2>
+                    <h2 class="section-heading">Skills</h2>
                     <ul>
                         <li>HTML5/CSS3</li>
                         <li>Bootstrap5</li>
                         <li>Git/Github</li>
                     </ul>
                 </div>
-            </div>
-        </section>
-        <section id="summary">
-            <div class="container">
-                <h2>Profile summary</h2>
-                <p>I used to work in the field of telecommunication more than 10 years, holding various positions (call-center, marketing) and a variety of duties. At present moment I started working in a new sphere of professional activity for me - insurance company.</p>
-                <p>Some time ago I made a decision to switch my professional sphere drastically, and so started attending an online course in web-development. While studying there we were mastering to build responsive web-sites using HTML/CSS, Bootstrap, also learning basic JS and creating some simple apps. But I quite.</p>
-                <p>And now I decided to start from the scratch again and continue learning.</p>
-            </div>
-        </section>
-        <section id="education">
-            <div class="container">
-                <h2>Education</h2>
-                <ul>
-                    <li>Minsk State Linguistic University (Faculty of English language)</li>
-                    <li>RS School (in progress)</li>
-                </ul>
             </div>
         </section>
         <section id="projects">
