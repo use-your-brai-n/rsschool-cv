@@ -95,6 +95,24 @@ html {
     text-align: justify;
   }
 
+  .list-item {
+    font-size: 18px;
+    color: #636060;
+    line-height: 2.0;
+  }
+
+  .education_container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .skills {
+    padding-top: 15px;
+  }
+
   .summary_container {
+    padding-top: 40px;
     padding-bottom: 40px;
   }
