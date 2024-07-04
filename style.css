@@ -95,7 +95,7 @@ html {
     text-align: justify;
   }
 
-  .list-item {
+  .list-item, .project-link, .task {
     font-size: 18px;
     color: #636060;
     line-height: 2.0;
@@ -107,12 +107,38 @@ html {
     display: flex;
     justify-content: space-around;
   }
-
-  .skills {
-    padding-top: 15px;
-  }
-
+  
   .summary_container {
     padding-top: 40px;
     padding-bottom: 40px;
+  }
+
+  .project-link{
+    text-decoration: none;
+  }
+  
+  .project-link:hover {
+    color: #deafae;
+    transition: 0.3s;
+  }
+
+  .code-container {
+    display: flex;
+  }
+
+  .task {
+    text-align: justify;
+  }
+
+  .wrapper {
+    max-width: 50%;
+  }
+
+  .subtitled {
+    color: #717171;
+  }
+
+  .code-example {
+    color: #717171;
+    font-size: 18px;
   }
