@@ -102,8 +102,7 @@ html {
   }
 
   .education_container {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 0;
   }
 
   .details-container{
@@ -112,8 +111,7 @@ html {
   }
   
   .summary_container {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 0;
   }
 
   .project-link{
@@ -152,8 +150,7 @@ html {
   }
 
   .code-container {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 0;
   }
 
   .creation-date {
