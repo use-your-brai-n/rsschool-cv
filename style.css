@@ -41,7 +41,7 @@ html {
     transition: 0.7s;
   }
 
-  .header, .header_main, #education {
+  .header, .header_main, #personal_details {
     background-color: #E7EAEF;
   }
 
@@ -104,10 +104,13 @@ html {
   .education_container {
     padding-top: 40px;
     padding-bottom: 40px;
+  }
+
+  .details-container{
     display: flex;
     justify-content: space-around;
   }
-
+  
   .summary_container {
     padding-top: 40px;
     padding-bottom: 40px;
